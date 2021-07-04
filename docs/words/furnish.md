@@ -4,7 +4,9 @@
 
 furnish...with 向...提供
 
-考 furnish sth. to sb. 为某人提供某物。
+:::tip
+furnish sth. to sb. 为某人提供某物。
+:::
 
 e.g.
 
